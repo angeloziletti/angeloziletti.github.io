@@ -2124,6 +2124,11 @@ div.mc-image {
     line-height:48px;
 }
 
+.news-content .logo {
+    text-align:left;
+
+}
+
 .news-content .date small{
     margin:0;
     font-size:26px;
