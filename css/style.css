@@ -2126,6 +2126,7 @@ div.mc-image {
 
 .news-content .logo {
     text-align:left;
+    margin-bottom: 12px;
 
 }
 
@@ -2140,7 +2141,7 @@ div.mc-image {
     font-size:24px;
     font-weight:300;
     text-align: left;
-    margin-bottom: 4px;
+    margin-bottom: 32px;
 }
 
 .news-content p{
